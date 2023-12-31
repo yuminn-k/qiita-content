@@ -1,10 +1,10 @@
 ---
 title: Dockerイメージビルドの最適化：package.jsonファイルを先にコピーする理由
 tags:
-  - 'Docker'
+  - Docker
 private: false
-updated_at: ''
-id: null
+updated_at: '2024-01-01T02:09:37+09:00'
+id: bd2d741069934b6ea68f
 organization_url_name: null
 slide: false
 ignorePublish: false
