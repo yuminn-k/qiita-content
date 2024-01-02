@@ -1,1 +1,2 @@
-# qiita-content
+# yuminnk-qiita
+> Qiitaポスト投稿リポジトリ
