@@ -29,7 +29,7 @@ CursorAIを最大限に活用できていますか？Microsoftのエンジニア
 
 「他の人やAIがこの文書を見てウェブサイトを作れるように、markdown形式の仕様書を作成してください。プロジェクトの詳細、UX/UI、各機能に必要な要素を必ず含めてください。技術はTypeScript、React、TailwindCSSを中心に使用します。」
 
-![spec.png](./img/newArticle005_spec.png)
+![spec.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3539939/ab480b87-6d84-1d32-a209-caab8097e462.jpeg)
 
 <center>🔼 SPEC.mdファイルを先に作成しましょう</center>
 
@@ -41,7 +41,7 @@ Viteなどでプロジェクトをセットアップしたら、先ほど作成�
 
 次は詳細な機能の実装に移ります。ここでよくある間違いは、一度に多くの実装を依頼することです。複数のタスクを同時に依頼すると、エラーが発生する確率が高くなり、修正にも時間がかかってしまいます。そのため、**機能をできるだけ小さな単位に分割し、一つずつ着実に実装することをお勧めします**。また、既存のコードやドキュメントへのリンクをコンテキストとして提供できるので、これを積極的に活用してAIの幻覚（hallucination）を防ぐことが重要です。
 
-![cursorrules.png](./img/newArticle005_cursorrules.png)
+![cursorrules.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3539939/9ad69e2e-0b85-09ac-7607-62a052f5d9b6.jpeg)
 
 <center>🔼 .cursorrules を積極的に活用しましょう</center>
 
