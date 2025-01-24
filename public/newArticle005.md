@@ -41,7 +41,7 @@ Viteなどでプロジェクトをセットアップしたら、先ほど作成�
 
 次は詳細な機能の実装に移ります。ここでよくある間違いは、一度に多くの実装を依頼することです。複数のタスクを同時に依頼すると、エラーが発生する確率が高くなり、修正にも時間がかかってしまいます。そのため、**機能をできるだけ小さな単位に分割し、一つずつ着実に実装することをお勧めします**。また、既存のコードやドキュメントへのリンクをコンテキストとして提供できるので、これを積極的に活用してAIの幻覚（hallucination）を防ぐことが重要です。
 
-![cursorrules.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3539939/9ad69e2e-0b85-09ac-7607-62a052f5d9b6.jpeg)
+![cursorrules.jpg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3539939/bb9b8f4b-8595-2268-e69b-c51c6849bb6a.jpeg)
 
 <center>🔼 .cursorrules を積極的に活用しましょう</center>
 
