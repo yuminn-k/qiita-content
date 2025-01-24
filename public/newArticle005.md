@@ -4,7 +4,7 @@ tags:
   - AI
   - cursor
 private: false
-updated_at: '2025-01-24T13:25:53+09:00'
+updated_at: '2025-01-24T13:29:15+09:00'
 id: f40851bbd5969deb763b
 organization_url_name: null
 slide: false
