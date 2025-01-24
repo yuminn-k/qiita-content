@@ -1,11 +1,11 @@
 ---
 title: Cursor AIをしっかり活用しよう
 tags:
-  - Cursor
   - AI
+  - cursor
 private: false
-updated_at: '2025-01-24T01:13:15+09:00'
-id: 
+updated_at: '2025-01-24T13:14:31+09:00'
+id: f40851bbd5969deb763b
 organization_url_name: null
 slide: false
 ignorePublish: false
