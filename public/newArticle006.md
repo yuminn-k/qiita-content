@@ -1,11 +1,11 @@
 ---
 title: (翻訳) 機能分割設計 - 最高のフロントエンドアーキテクチャー
 tags:
-  - Frontend
-  - Architecture
+  - アーキテクチャ
+  - フロントエンド
 private: false
-updated_at: '2025-01-26T15:37:00+09:00'
-id: 
+updated_at: '2025-01-26T15:37:57+09:00'
+id: 02ede0534a7769b47142
 organization_url_name: null
 slide: false
 ignorePublish: false
