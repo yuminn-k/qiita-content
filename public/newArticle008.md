@@ -1,13 +1,13 @@
 ---
 title: RAGに代わる新しいアプローチ：Cache-Augmented Generation (CAG)の可能性
 tags:
-  - AI
-  - LLM
-  - RAG
   - 機械学習
+  - AI
+  - rag
+  - LLM
 private: false
-updated_at: '2024-01-29T14:27:00+09:00'
-id: 
+updated_at: '2025-01-29T14:27:58+09:00'
+id: 4aec6ec2c9f799c4aa80
 organization_url_name: null
 slide: false
 ignorePublish: false
