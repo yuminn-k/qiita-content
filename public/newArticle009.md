@@ -14,7 +14,7 @@ slide: false
 ignorePublish: false
 ---
 
-![deepseek.jpeg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3539939/8de10d49-d157-7255-24b8-0e285f11d658.jpeg)
+![thumnail.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3539939/bc2dbe6a-cd13-96a1-3eeb-f220a0009754.png)
 
 ## 👋 はじめに
 
