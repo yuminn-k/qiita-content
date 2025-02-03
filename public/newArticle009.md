@@ -14,6 +14,8 @@ slide: false
 ignorePublish: false
 ---
 
+![deepseek.jpeg](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3539939/8de10d49-d157-7255-24b8-0e285f11d658.jpeg)
+
 ## 👋 はじめに
 
 こんにちは！今回は、ローカル環境で動作するAIアシスタントのVSCode拡張機能を作成する方法をご紹介します。OllamaとDeepSeekを使用して、プライバシーを保ちながら高性能なAIチャット機能を実装していきましょう。
