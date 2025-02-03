@@ -7,7 +7,7 @@ tags:
   - ollama
   - deepseek
 private: false
-updated_at: '2025-02-03T18:00:23+09:00'
+updated_at: '2025-02-03T18:06:40+09:00'
 id: c687bb82ef2b02fab8f3
 organization_url_name: null
 slide: false
