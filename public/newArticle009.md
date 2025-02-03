@@ -1,14 +1,14 @@
 ---
 title: OllamaとSelf-hosting DeepSeekで簡単なVSCode Extension作成
 tags:
-  - VSCode
-  - Extension
-  - Ollama
-  - DeepSeek
+  - extension
   - AI
+  - VSCode
+  - ollama
+  - deepseek
 private: false
-updated_at: '2025-02-03T18:00:00+09:00'
-id: 
+updated_at: '2025-02-03T18:00:23+09:00'
+id: c687bb82ef2b02fab8f3
 organization_url_name: null
 slide: false
 ignorePublish: false
